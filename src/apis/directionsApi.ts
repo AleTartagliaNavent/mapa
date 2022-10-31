@@ -7,7 +7,7 @@ export const directionsApi = axios.create({
     geometries: 'geojson',
     overview: 'simplified',
     steps: false,
-    access_token: "pk.eyJ1IjoiYWxldGFydGFnbGlhIiwiYSI6ImNsOXBxYXlrODBsZmg0MW8wbjRpc2xpcTgifQ.xK4XjySVSxY4kk1mC1Tfcw"
+    access_token: "agregar api de worldbox"
 
   }
 })
